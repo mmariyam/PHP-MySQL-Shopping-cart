@@ -16,3 +16,6 @@ Ones you insert these values just execute your application.
 that's it.
 
 Thank you.
+
+
+![alt text](https://raw.githubusercontent.com/mmariyam/PHP-MySQL-Shopping-cart/main/Screenshot%202022-08-05%20at%2009.14.41.png)
